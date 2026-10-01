@@ -916,6 +916,24 @@
         ]
       }
     },
+    "shipmail": {
+      "sha": "172dbd1040b839f556f0dc74c5fc517c674be255",
+      "version": "0.9.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "shipmail",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "shipmail",
+            "description": "Modern email for your business. Inboxes, calendars, newsletters, bookings, an AI assistant, and an API for your agents.…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "a188b0d644166d57b93dc6fb338a0e2e8c37b5fc",
       "version": "0.9.4",
